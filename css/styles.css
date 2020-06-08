@@ -1,3 +1,4 @@
-#result{
+.result{
   display: none;
+  margin-top: 40px;
 }
